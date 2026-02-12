@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "I'll Light You",
+  "base_artist": "Toc",
+  "createdAt": "2026-02-12T15:15:20.278764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Light You",
+      "artist": "Toc",
+      "has_synced": true,
+      "path": "select/01_I'll_Light_You_Toc.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Light A Candle (Ft Keith Martin)",
+      "artist": "Agnes Monica",
+      "has_synced": false,
+      "path": "select/02_I'll_Light_A_Candle_(Ft_Keith_Martin)_Agnes_Monica.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Light A Candle (duet with Keith Martin)",
+      "artist": "Agnes Monica",
+      "has_synced": false,
+      "path": "select/03_I'll_Light_A_Candle_(duet_with_Keith_Martin)_Agnes_Monica.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll Light You",
+      "artist": "TOC",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_Light_You_TOC.txt"
+    }
+  ]
+}
